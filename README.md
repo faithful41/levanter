@@ -41,10 +41,9 @@ BOT_LANG=es
 ### 2️⃣ Deploy on Render
 
 [Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Render.
-
 ### 3️⃣ Deploy on Panel
 
-[Deploy Now] to set up your
+[Deploy Now](https://levanter-delta.vercel.app/) to set up your
 bot on Panel.
 
 #### **Quick Installation**
