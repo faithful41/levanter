@@ -44,7 +44,7 @@ BOT_LANG=es
 
 ### 3️⃣ Deploy on Panel
 
-[Deploy Now]to set up your
+[Deploy Now] to set up your
 bot on Panel.
 
 #### **Quick Installation**
