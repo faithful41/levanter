@@ -38,12 +38,15 @@ BOT_LANG=es
 ### 1️⃣ Deploy on Koyeb
 
 [Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Koyeb.
-
 ### 2️⃣ Deploy on Render
 
 [Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Render.
 
-### 3️⃣ Deploy on a VPS or PC (Ubuntu Example)
+### 3️⃣ Deploy on Panel
+
+[Deploy Now](https://levanter-
+delta.vercel.app/)to set up your
+bot on Panel.
 
 #### **Quick Installation**
 
